@@ -17,7 +17,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model:/maze.stl</uri>
+            <uri>model://maze/maze.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -25,7 +25,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model:/maze.stl</uri>
+            <uri>model://maze/maze.stl</uri>
           </mesh>
         </geometry>
       </visual>
