@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<sdf version="1.4">
+<sdf version="1.11">
   <model name="maze">
     <link name="link">
       <inertial>
@@ -31,5 +31,12 @@
       </visual>
     </link>
     <static>1</static>
+    <plugin name="gz::sim::systems::TouchPlugin"
+            filename="gz-sim-touchplugin-system">
+      <target>my_robot</target>
+      <namespace>maze</namespace>
+      <time>0.001</time>
+      <enabled>true</enabled>
+    </plugin>
   </model>
 </sdf>
