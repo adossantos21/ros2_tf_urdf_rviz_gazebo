@@ -1,3 +1,10 @@
+<!-- 
+`<let>` declares variables you can use later in .xml files
+`<node>` mimics `ros2 run <package_name> <node_executable>`
+    `<param name="" value="" />` mimics `ros-args -p <param_name>:=<custom_param_value>`
+`<include>` allows you to include another launch file in this launch file.
+`<include file=""> <arg name="" value="" /> </include>` mimics `ros2 launch <package_name> <launch_file> <arg_name>:=<value>`
+-->
 <launch>
     <let name="urdf_path" 
          value="$(find-pkg-share custom_robot_description)/urdf/custom_robot.urdf.xacro" />
