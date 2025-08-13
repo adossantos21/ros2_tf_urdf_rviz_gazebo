@@ -2,6 +2,8 @@
 
 Take note of `ros2_cheatsheet.pdf`, since it will be very helpful. Additionally, `my_robot_frames.pdf` shows the correct hierarchy of links and joints for the custom robot in this repository.
 
+![My Image](figs/ROS2_Workflow.png)
+
 ## Installation
 
 Jazzy is the current LTS distro for ROS2. If a new LTS distro is released, chances are it is backwards compatible, meaning you can replace `jazzy` with the name of the new distro `<distro>` in the following steps. For example, replace `sudo apt install ros-jazzy-ros-gz` with `sudo apt install ros-<distro>-ros-gz`.
