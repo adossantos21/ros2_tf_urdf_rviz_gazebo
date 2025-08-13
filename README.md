@@ -8,7 +8,7 @@ ROS2 Workflow Description:
 
 ROS2 RQT Graph Visualization:
 
-![RQT Pipeline](figs/rosgraph.png) I
+![RQT Pipeline](figs/rosgraph.png)
 
 ## Installation
 
