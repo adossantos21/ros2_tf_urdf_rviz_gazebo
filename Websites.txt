@@ -1,0 +1,13 @@
+Websites:
+
+https://gazebosim.org/docs/latest/sensors/
+https://github.com/gazebosim/docs/blob/master/ionic/tutorials/sensors/sensor_tutorial.sdf
+https://github.com/gazebosim/docs/blob/master/ionic/tutorials/moving_robot/moving_robot.sdf
+http://sdformat.org/spec?ver=1.12&elem=model
+https://github.com/gazebosim/gz-sensors/blob/gz-sensors9/src/ImuSensor.cc
+https://github.com/gazebosim/gz-sim/tree/gz-sim9/src/systems
+https://github.com/gazebosim/ros_gz/tree/ros2/ros_gz_bridge
+https://github.com/ROBOTIS-GIT/turtlebot3/blob/main/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+https://docs.nav2.org/setup_guides/odom/setup_robot_localization.html
+https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html
+https://tree.nathanfriend.com/?s=(%27options!(%27fancy4~fullPath!false~trailingSlash4~rootDot4)~6(%276%27src-my_2nd7bringup58launch-0_gazebo.launchB3s-050.png50.stl5*3.8*3Fworlds-0_worldFCMakeLists.txt5packageBmy7description-.gitignore-README.md%27)~version!%271%27)*99-%5Cn*0**maze3*model4!true5-*6source!7_robot_8config59%20%20B.xml-F.sdf5%01FB98765430-*
