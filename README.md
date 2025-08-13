@@ -24,7 +24,14 @@ Dual booting Ubuntu is recommended when operating Gazebo Ionic. These steps assu
 
 2. Follow the guidelines for installing ROS2 Jazzy distribution. Opt for the recommended desktop installation and make sure to install the optional development tools.
 
-3. Add the following to the end of your .bashrc `source /opt/ros/jazzy/setup.bash`
+3. Add the following to the end of your .bashrc
+
+   ```
+   export TURTLEBOT3_MODEL=burger # can be burger or waffle
+   export GZ_SIM_RESOURCE_PATH=/path/to/ros2_tf_urdf_rviz_gazebo/src/custom_robot_bringup/models:${GZ_SIM_RESOURCE_PATH}
+   source /opt/ros/jazzy/setup.bash
+   source /path/to/ros2_tf_urdf_rviz_gazebo/install/setup.bash
+   ```
 
 ### 2. Install Gazebo Ionic (latest version of Gazebo)
 
