@@ -2,11 +2,11 @@
 
 Take note of `ros2_cheatsheet.pdf`, since it will be very helpful. Additionally, `my_robot_frames.pdf` shows the correct hierarchy of links and joints for the custom robot in this repository.
 
-##ROS2 Workflow Description:
+## ROS2 Workflow Description:
 
 ![ROS2 Workflow](figs/ROS2_Workflow.png)
 
-##ROS2 RQT Graph Visualization:
+## ROS2 RQT Graph Visualization:
 
 ![RQT Pipeline](figs/rosgraph.png)
 
