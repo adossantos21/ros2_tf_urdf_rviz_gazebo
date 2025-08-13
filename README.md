@@ -20,7 +20,7 @@ Dual booting Ubuntu is recommended when operating Gazebo Ionic. These steps assu
 
 1. (a) Navigate to `https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html`
 
-1. (b) Alternatively, search for `ros2 jazzy install` in your browser and navigate to `deb packages` under Ubuntu Linux.
+   (b) Alternatively, search for `ros2 jazzy install` in your browser and navigate to `deb packages` under Ubuntu Linux.
 
 2. Follow the guidelines for installing ROS2 Jazzy distribution. Opt for the recommended desktop installation and make sure to install the optional development tools.
 
