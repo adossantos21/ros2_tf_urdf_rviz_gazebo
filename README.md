@@ -60,5 +60,11 @@ git clone git@github.com:adossantos21/ros2_tf_urdf_rviz_gazebo.git
 
 `colcon build --symlink-install`
 
+
+**${\color{red}Remember \space to \space source \space your \space .bashrc \space after \space building. \space In \space the \space terminal, \space execute \space}$** `source ~/.bashrc` **${\color{red}\space or \space just \space open}$**
+
+**${\color{red}a \space new \space terminal \space and \space run \space your \space nodes \space or \space launch \space files.}$**
+
+
 ### OPTIONAL
 If colcon is not recognized, check if you have it installed by running: `sudo apt install python3-colcon-common-extensions`
