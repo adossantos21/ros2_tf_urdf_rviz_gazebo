@@ -1,6 +1,6 @@
 # ROS2 Jazzy Gazebo Custom Robot Simulation
 
-Take note of `ros2_cheatsheet.pdf`, since it will be very helpful. Additionally, `my_robot_frames.pdf` shows the correct hierarchy of links and joints for the custom robot in this repository.
+Take note of `cheatsheet_ros2.pdf` and `cheatsheet_gazebo.pdf`, since they will be very helpful. Additionally, `my_robot_frames.pdf` shows the correct hierarchy of links and joints for the custom robot in this repository.
 
 ## ROS2 Workflow Description:
 
